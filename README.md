@@ -1,3 +1,4 @@
+## extensiones de vs code Database Client
 ## makemigrations
 ## migrate
 ## createsuperuser
